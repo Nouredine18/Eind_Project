@@ -1,0 +1,10 @@
+{
+    "require": {
+        "google/apiclient": "^2.18",
+        "facebook/graph-sdk": "^5.1",
+        "phpmailer/phpmailer": "*",
+        "stripe/stripe-php": "^16.5",
+        "paypal/rest-api-sdk-php": "^1.6",
+        "tecnickcom/tcpdf": "^6.8"
+    }
+}
